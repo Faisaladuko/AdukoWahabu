@@ -15,9 +15,11 @@ h2{
 	margin: 1.66%
 }
 span > img{
-	width: 82%;
 	height: 760px;
-	float: right;
+	padding-left: 5%;
+	padding-right: 5%;
+	float: center;
+	width: 90%
 	}
 	
 
