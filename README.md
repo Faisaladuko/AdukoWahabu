@@ -1,3 +1,3 @@
-# AdukoWahabu
+# Faisal
 
 This is my personal website 
