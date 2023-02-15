@@ -495,7 +495,7 @@ main {
   #ABOUT
 \*-----------------------------------*/
 
-.about .article-title { margin-bottom: 15px; }
+.ME .article-title { margin-bottom: 15px; }
 
 .about-text {
   color: var(--light-gray);
@@ -1385,7 +1385,7 @@ textarea.form-input::-webkit-resizer { display: none; }
    * #ABOUT
    */
 
-  .about .article-title { margin-bottom: 20px; }
+  .ME .article-title { margin-bottom: 20px; }
 
   .about-text { margin-bottom: 40px; }
 
