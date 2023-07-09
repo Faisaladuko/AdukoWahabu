@@ -392,7 +392,11 @@ main {
   transition: var(--transition-2);
 }
  */
-.sidebar.active .sidebar-info_more {
+/* .sidebar.active .sidebar-info_more {
+  opacity: 1;
+  visibility: visible;
+} */
+.sidebar-info_more {
   opacity: 1;
   visibility: visible;
 }
